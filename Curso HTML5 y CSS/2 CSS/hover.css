@@ -1,0 +1,12 @@
+button {
+    background: purple;
+    color: violet;
+}
+
+button:hover {
+    background: blue;
+}
+
+button:active {
+    background: green;
+}
